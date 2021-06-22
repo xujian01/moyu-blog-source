@@ -1,6 +1,6 @@
 ---
 title: Service Mesh和服务Mesh化的认知和理解
-date: 2021-09-05 10:33:29
+date: 2020-09-05 10:33:29
 tags: ServiceMesh
 ---
 已经了解到公司基础架构部门和很多业务部门的技术已经在落地Service Mesh了，Service Mesh本身是个基础设施，最终肯定会推向各个业务，那对业务开发人员或多或少会有影响，
