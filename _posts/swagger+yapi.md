@@ -3,8 +3,8 @@ title: Swagger API Spec + Swagger Codegen + YAPI管理接口文档
 date: 2020-11-15 10:33:29
 tags: Swagger
 ---
-> 背景：使用SpringCloud进行微服务开发，且后端服务调用大都使用Feign Client进行调用。
-
+背景：使用SpringCloud进行微服务开发，且后端服务调用大都使用Feign Client进行调用。
+<!-- more -->
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210425111232757.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzE4NTE1MTU1,size_16,color_FFFFFF,t_70)
 
 ## 1、项目接入Swagger

@@ -3,6 +3,8 @@ title: Bean Copy也就这么点事了！
 date: 2020-08-10 10:33:29
 tags: Java
 ---
+工作中经常需要用到对象的Copy，这篇文章系统对对象Copy做一个系统的总结。
+<!-- more -->
 # 什么是深拷贝和浅拷贝
 先来看一张图：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2020122011033046.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzE4NTE1MTU1,size_16,color_FFFFFF,t_70)

@@ -3,6 +3,8 @@ title: Gson序列化LinkedHashMap.Entry失败的探索
 date: 2021-03-26 10:33:29
 tags: Gson
 ---
+Gson对特定对象序列化失败的探索过程。
+<!-- more -->
 ## 问题重现
 示例代码如下：
 ```java

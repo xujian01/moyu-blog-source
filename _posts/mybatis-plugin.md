@@ -3,8 +3,8 @@ title: 这么强大的Mybatis插件机制原来就是这？
 date: 2021-05-13 10:33:29
 tags: Mybatis
 ---
-> Mybatis开发中经常会用到pagehelper分页插件，除此之外还有慢sql上报等各种各样的插件，那么Mybatis是如何来实现如此强大的插件机制呢？一起来看看吧。
-
+Mybatis开发中经常会用到pagehelper分页插件，除此之外还有慢sql上报等各种各样的插件，那么Mybatis是如何来实现如此强大的插件机制呢？一起来看看吧。
+<!-- more -->
 ## Mybatis插件机制介绍
 
 MyBatis 允许你在映射语句执行过程中的某一点进行拦截调用。默认情况下，MyBatis 允许使用插件来拦截的方法调用包括：

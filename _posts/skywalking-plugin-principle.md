@@ -3,8 +3,8 @@ title: Skywalking如何通过修改字节码让插件生效
 date: 2021-04-12 10:33:29
 tags: Skywalking
 ---
-> 背景：大家都在说Skywalking Agent实现的核心原理就是`Java Agent`+字节码操作。但是这两者是如何起作用的，一直比较模糊，所以通过这篇博客来记录一下解疑答惑的过程。
-
+背景：大家都在说Skywalking Agent实现的核心原理就是`Java Agent`+字节码操作。但是这两者是如何起作用的，一直比较模糊，所以通过这篇博客来记录一下解疑答惑的过程。
+<!-- more -->
 通过这篇博客应该可以解答如下几个问题：
 1. Skywalking具体使用什么来操作字节码；
 2. Skywalking的插件是怎么开发的；

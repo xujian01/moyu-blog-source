@@ -3,8 +3,8 @@ title: 基于Apollo的配置自动刷新组件
 date: 2020-06-22 10:33:29
 tags: Apollo,SpringBoot
 ---
-> 本文介绍在[《Apollo配置中心二：环境隔离方案》](https://note.youdao.com/)的基础上开发基于注解自动添加配置更新监听器的组件，也是对[《Apollo配置中心二：环境隔离方案》](https://note.youdao.com/)第6章的补充。
-
+本文介绍在[《Apollo配置中心二：环境隔离方案》](https://note.youdao.com/)的基础上开发基于注解自动添加配置更新监听器的组件，也是对[《Apollo配置中心二：环境隔离方案》](https://note.youdao.com/)第6章的补充。
+<!-- more -->
 ## 1. 定义注解
 定义需要使用的注解，其中一个注解需要起到标注作用，对于@ConfigurationProperties定义的配置bean加了该注解会自动为其添加listener；
 另一个注解起到开关作用，类似@EnableFeignClients，整体控制上一个注解是否生效

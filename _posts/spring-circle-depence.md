@@ -3,8 +3,8 @@ title: 探索Spring循环依赖的细节
 date: 2021-05-10 10:33:29
 tags: Spring
 ---
-> 之前在[Spring学习笔记，挺全的！](https://blog.csdn.net/qq_18515155/article/details/117334765)这个博客中提到了Spring对循环依赖的解决原理，这篇博客对一些细节做个补充。
-
+之前在[Spring学习笔记，挺全的！](https://blog.csdn.net/qq_18515155/article/details/117334765)这个博客中提到了Spring对循环依赖的解决原理，这篇博客对一些细节做个补充。
+<!-- more -->
 ## 背景回顾
 
 ```java

@@ -3,12 +3,10 @@ title: Service Mesh和服务Mesh化的认知和理解
 date: 2021-09-05 10:33:29
 tags: ServiceMesh
 ---
-> 为什么要做这次分享？
 已经了解到公司基础架构部门和很多业务部门的技术已经在落地Service Mesh了，Service Mesh本身是个基础设施，最终肯定会推向各个业务，那对业务开发人员或多或少会有影响，
 为了使平台开发工程师和业务开发工程师那时候能更好的沟通，就想对Service Mesh做一个入门的介绍。
 Service Mesh的实践会涉及到容器相关的知识，比如docker和k8s，如果不了解并不影响这次分享，因为这个分享更多的是讲述如何理解Service Mesh。
-
-
+<!-- more -->
 通过本次分享希望大家了解：
 
  - 什么是service mesh？
