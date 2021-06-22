@@ -1,7 +1,7 @@
 ---
 title: 基于Apollo的配置自动刷新组件
 date: 2020-06-22 10:33:29
-tags: Apollo,SpringBoot
+tags: [Apollo,SpringBoot]
 ---
 本文介绍在[《Apollo配置中心二：环境隔离方案》](https://note.youdao.com/)的基础上开发基于注解自动添加配置更新监听器的组件，也是对[《Apollo配置中心二：环境隔离方案》](https://note.youdao.com/)第6章的补充。
 <!-- more -->

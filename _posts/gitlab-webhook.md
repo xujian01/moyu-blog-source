@@ -1,7 +1,7 @@
 ---
 title: GitLab的Webhook配置和开发
 date: 2020-10-10 10:33:29
-tags: GitLab,WebHook
+tags: [GitLab,WebHook]
 ---
 本文主要介绍如何使用gitlab的webhook来打通企业微信消息提醒。
 <!-- more -->

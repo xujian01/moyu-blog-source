@@ -1,7 +1,7 @@
 ---
 title: SpringBoot中使用ES和MongoDB常用API
 date: 2020-12-20 10:33:29
-tags: SpringBoot,ES,MongoDB
+tags: [SpringBoot,ES,MongoDB]
 ---
 本文主要介绍一些ES和MongoDB的API使用，请不要纠结代码上下文。
 <!-- more -->
